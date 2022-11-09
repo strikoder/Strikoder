@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amin</h1>
 <h3 align="center">Interested in data science, ML & deep learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strikoder&label=Profile%20views&color=0e75b6&style=flat" alt="strikoder" /> </p>
+[![](https://visitcount.itsvg.in/api?id=strikoder&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Deep learning**
 
