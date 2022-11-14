@@ -3,6 +3,8 @@
 
 
 - 🌱 I’m currently learning **Deep learning**
+- 
+<img align="right" alt="Coding" width="180" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 <h3 align="left">Available at:</h3>
 <p align="left">
@@ -11,7 +13,6 @@
 <a href="https://www.kaggle.com/strikoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/strikoder" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/strikoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 </p>
-<img align="right" alt="Coding" width="180" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
