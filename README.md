@@ -1,4 +1,4 @@
-<h1 align="center">Hi <h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Amin</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Amin</h1>
 <h3 align="center">Interested in data science, ML & deep learning</h3>
 
 
