@@ -4,8 +4,8 @@
 
 
 * You can read my [technical articles](https://strikoder.hashnode.dev/)
-* For a comprehensive overview of my work and projects, visit [my website](https://strikoder.github.io)
 * You can check out my latest updates and connect with me on [LinkedIn](https://www.linkedin.com/in/strikoder/)
+* For a comprehensive overview of my work and projects, you can visit [my website](https://strikoder.github.io)
 
 Thank you for taking the time to check out my profile. If you have any questions or comments, please feel free to reach out to me via email at mohamadalaminyassin@gmail.com
 
