@@ -3,9 +3,9 @@
 
 
 
-* You can either read [my blog](https://strikoder.hashnode.dev/)
-* Or check my wall on [linkedin](https://www.linkedin.com/in/strikoder/)
-* Or visit [my Website](https://strikoder.github.io)
+* You can read my [technology-focused blog at](https://strikoder.hashnode.dev/)
+* You can check out my latest updates and connect with me on [LinkedIn](https://www.linkedin.com/in/strikoder/)
+* For a general overview of my work and projects, visit [my website](https://strikoder.github.io) for a general look
 
 <img align="right" alt="Coding" width="180" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
