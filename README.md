@@ -1,7 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, <a href="https://strikoder.github.io/" target="_blank" rel="noreferrer">I'm Amin</a></h1>
-<h3 align="center">Interested in data science, ML & deep learning</h3>
-
-
 
 * You can read my [technical articles](https://strikoder.hashnode.dev/)
 * You can check out my latest updates and connect with me on [LinkedIn](https://www.linkedin.com/in/strikoder/)
