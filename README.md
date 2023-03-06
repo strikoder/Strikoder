@@ -6,12 +6,6 @@
 
 <img align="right" alt="Coding" width="180" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-<h3 align="left">Available at:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/strikoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="strikoder" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/strikoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/strikoder/code" height="30" width="40" /></a>
-<a href="https://hashnode.com/@strikoder" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="@strikoder" height="30" width="40" /></a>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
