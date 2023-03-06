@@ -6,7 +6,6 @@
 * You can either read [my blog](https://strikoder.hashnode.dev/)
 * Or check my wall on [linkedin](https://www.linkedin.com/in/strikoder/)
 * Or visit [my Website](https://strikoder.github.io)
-- 🌱 I’m currently learning **Deep learning**
 
 <img align="right" alt="Coding" width="180" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
