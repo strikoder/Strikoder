@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/strikoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="strikoder" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/strikoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/strikoder/code" height="30" width="40" /></a>
-<a href="https://hashnode.com/@strikoder" target="blank"><img align="center" src="https://github.com/marketplace/actions/hashnode-blog" alt="@strikoder" height="30" width="40" /></a>
+<a href="https://hashnode.com/@strikoder" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8908719044365963ab6efff0f3e207fc97d0d2f0a9075f686065cf74d4e9527/68747470733a2f2f63646e2e73766172756e2e6465762f636f6d6d6f6e2f686173686e6f64652f69636f6e2e706e67" alt="@strikoder" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
