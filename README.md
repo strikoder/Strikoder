@@ -3,7 +3,7 @@
 
 
 
-* You can read my [technology-focused blog at](https://strikoder.hashnode.dev/)
+* You can read my [technology-focused blog](https://strikoder.hashnode.dev/)
 * For a general overview of my work and projects, visit [my website](https://strikoder.github.io)
 * You can check out my latest updates and connect with me on [LinkedIn](https://www.linkedin.com/in/strikoder/)
 
