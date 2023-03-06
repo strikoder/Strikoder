@@ -7,8 +7,7 @@
 * For a comprehensive overview of my work and projects, visit [my website](https://strikoder.github.io)
 * You can check out my latest updates and connect with me on [LinkedIn](https://www.linkedin.com/in/strikoder/)
 
-Thank you for taking the time to check out my profile, and feel free to reach out to [me](mohamadalaminyassin@gmail.com
-) with any questions or comments.
+Thank you for taking the time to check out my profile. If you have any questions or comments, please feel free to reach out to me via email at mohamadalaminyassin@gmail.com
 
 <img align="right" alt="Coding" width="180" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
