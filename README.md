@@ -2,7 +2,7 @@
 
 * You can read my [technical articles](https://strikoder.hashnode.dev/)
 * You can check out my latest updates and connect with me on [LinkedIn](https://www.linkedin.com/in/strikoder/)
-* For a comprehensive overview of my feature work & projects, you can visit [my website](https://strikoder.github.io/#projects)
+* For a comprehensive overview of my featured work & projects, you can visit [my website](https://strikoder.github.io/#projects)
 
 Please feel free to reach out to me via email at strikoder@gmail.com
 
