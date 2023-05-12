@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, <a href="https://strikoder.github.io/" target="_blank" rel="noreferrer">I'm Amin</a></h1>
 
-* You can read my [technical articles](https://strikoder.hashnode.dev/)
-* You can check out my latest updates and connect with me on [LinkedIn](https://www.linkedin.com/in/strikoder/)
-* For a comprehensive overview of my featured work & projects, you can visit [my website](https://strikoder.github.io/#projects)
+* Take a look at my [technical articles](https://strikoder.hashnode.dev/) to read insightful pieces on various tech topics.
+* You can explore my  for insightful write-ups on various tech topics.
+* Connect with me and stay up-to-date with my latest updates on [LinkedIn](https://www.linkedin.com/in/strikoder/).
+* For a complete view of my work and projects, visit [my website](https://strikoder.github.io/#projects) or [my GitHub repo](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects/Machine%20&%20Deep%20learning%20projects).
+* You can also find some of my projects and competitions on [Kaggle](https://www.kaggle.com/strikoder).
 
 Please feel free to reach out to me via email at strikoder@gmail.com
 
