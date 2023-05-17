@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, <a href="https://strikoder.github.io/" target="_blank" rel="noreferrer">I'm Amin</a></h1>
 
-* For a complete view of my work and projects, visit [my website](https://strikoder.github.io/#projects) or [my GitHub repo](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects/Machine%20&%20Deep%20learning%20projects).
+* For a complete view of my work and projects, visit [my website](https://strikoder.github.io/#portfolio) or [my GitHub repo](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects/Machine%20&%20Deep%20learning%20projects).
 * You can also find some of my projects and competitions on [Kaggle](https://www.kaggle.com/strikoder).
 
 Please feel free to reach out to me via email at strikoder@gmail.com
