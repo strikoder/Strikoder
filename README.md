@@ -1,6 +1,6 @@
 <h1><a href="https://strikoder.github.io/" target="_blank" rel="noreferrer">Hi, I'm the ML Engineer with a Neovim Twist!</a></h1>
 
-What's up? I'm just another human trying to make sense of Deep Learning, and yes, obsessing over Neovim because why not? 
+What's up?  I'm just another human trying to make sense of Deep Learning, and yes, obsessing over Neovim because why not? 
 
 - **Peek at Projects**: Swing by my [Kaggle](https://www.kaggle.com/strikoder) & [GitHub repo](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects/Machine%20&%20Deep%20learning%20projects)
   
