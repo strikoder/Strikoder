@@ -1,8 +1,8 @@
-<h1><a href="https://strikoder.github.io/" target="_blank" rel="noreferrer">Hi, I'm the ML Engineer with a Neovim Twist!</a></h1>
+<h1>Hi, I'm <a href="https://strikoder.github.io/" target="_blank" rel="noreferrer">Strikoder</a></h1>
 
 What's up?  I'm just another human trying to make sense of Deep Learning, and yes, obsessing over Neovim because why not? 
 
-- **Some of my AI projects**: [Kaggle](https://www.kaggle.com/strikoder) & [ML](https://github.com/strikoder/StrikoProjects/tree/main)
+- **Some of my old ML&DL projects**: [Kaggle](https://www.kaggle.com/strikoder) & [ML](https://github.com/strikoder/StrikoProjects/tree/main)
   
 - **Mentorship & Consulting**: [mentorship and consultations](https://github.com/Strikoder/Mentorship-public).
 
