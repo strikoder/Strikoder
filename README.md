@@ -2,7 +2,7 @@
 
 What's up?  I'm just another human trying to make sense of Deep Learning, and yes, obsessing over Neovim because why not? 
 
-- **Some of my AI projects**: [Kaggle](https://www.kaggle.com/strikoder) & [GitHub repo](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects/Machine%20&%20Deep%20learning%20projects)
+- **Some of my AI projects**: [Kaggle](https://www.kaggle.com/strikoder) & [ML](https://github.com/strikoder/StrikoProjects/tree/main)
   
 - **Mentorship & Consulting**: [mentorship and consultations](https://github.com/Strikoder/Mentorship-public).
 
