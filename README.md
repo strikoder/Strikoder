@@ -1,6 +1,6 @@
 <h1>Hi, I'm <a href="https://strikoder.github.io/" target="_blank" rel="noreferrer">Strikoder</a></h1>
 
-What's up?  I'm just another human trying to make sense of Deep Learning, and yes, obsessing over Neovim because why not? 
+What's up?  I'm just another human trying to obtain the OSCP, cause why not?
 
 - **Some of my old ML&DL projects**: [Kaggle](https://www.kaggle.com/strikoder) & [ML](https://github.com/strikoder/StrikoProjects/tree/main)
   
