@@ -24,7 +24,7 @@
 ## Legacy (ML & DL)
 Archived projects before moving fully into cybersecurity:
 
-- [Legacy Playlist](https://github.com/stars/strikoder/lists/legacy)  
+- [Legacy Repos](https://github.com/stars/strikoder/lists/legacy)  
 - [Kaggle](https://www.kaggle.com/strikoder)  
 - [Mentorship & Consulting](https://github.com/Strikoder/Mentorship-public)  
 
