@@ -17,16 +17,34 @@
     <img alt="Website" src="https://img.shields.io/badge/Website-strikoder.github.io-000?logo=github&logoColor=white&style=for-the-badge">
   </a>
 
+
 ## Cybersecurity
 - **HackTheBox**: [Profile](https://app.hackthebox.com/users/1872370)  
   <img src="https://www.hackthebox.com/badge/image/1872370" alt="HackTheBox Badge">
+  
+- **TryHackMe**: [Profile](https://tryhackme.com/p/strikoder)<br>
+  [![TryHackMe PT1 Certified](https://img.shields.io/badge/TryHackMe-PT1%20Certified-red)](https://assets.tryhackme.com/certification-certificate/68aa91aaf99ed630e4aa02ab.pdf)<br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/strikoder.png" alt="TryHackMe Badge" />
 
-## Legacy (ML & DL)
-Archived projects before moving fully into cybersecurity:
+- **eLearnSecurity / INE**:<br>
+  [![eJPTv2 Certified](https://img.shields.io/badge/eLearnSecurity-eJPTv2%20Certified-red)](https://certs.ine.com/c31e8914-4cc2-41f8-ac9a-bde21d4de0c5#acc.OZ2NHpoU)<br>
+  [![ICCA Certified](https://img.shields.io/badge/eLearnSecurity-ICCA%20Certified-blue)](https://certs.ine.com/d28cc201-59ac-4a3e-ba26-1664cfb677fe#acc.lS07hHDF)
 
-- [Legacy Repos](https://github.com/stars/strikoder/lists/legacy)  
-- [Kaggle](https://www.kaggle.com/strikoder)  
-- [Mentorship & Consulting](https://github.com/Strikoder/Mentorship-public)  
+> ℹ️ Click any shield above to open the official certificate.
+
+
+## Legacy 
+<details>
+  <summary>AI & Machine Learning</summary>
+
+  Archived projects before moving fully into cybersecurity:
+
+  - [Legacy Repos](https://github.com/stars/strikoder/lists/legacy)  
+  - [Kaggle](https://www.kaggle.com/strikoder)  
+  - [Mentorship & Consulting](https://github.com/Strikoder/Mentorship-public)  
+
+</details>
+
 
 ## Featured Video
 <p align="center">
@@ -54,5 +72,3 @@ Archived projects before moving fully into cybersecurity:
 <p>
   <img src="https://komarev.com/ghpvc/?username=strikoder&color=blueviolet" alt="Profile Views">
 </p>
-
-
