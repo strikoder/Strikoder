@@ -34,7 +34,7 @@
 
 
 ## Legacy 
-[See my archived AI/ML projects here](https://strikoder.github.io/#legacy)
+[See my archived AI/ML projects here](https://strikoder.github.io/#portfolio)
 
 
 ## Featured Video
