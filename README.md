@@ -34,16 +34,7 @@
 
 
 ## Legacy 
-<details>
-  <summary>AI & Machine Learning</summary>
-
-  Archived projects before moving fully into cybersecurity:
-
-  - [Legacy Repos](https://github.com/stars/strikoder/lists/legacy)  
-  - [Kaggle](https://www.kaggle.com/strikoder)  
-  - [Mentorship & Consulting](https://github.com/Strikoder/Mentorship-public)  
-
-</details>
+[See my archived AI/ML projects here](https://strikoder.github.io/#legacy)
 
 
 ## Featured Video
