@@ -39,8 +39,8 @@
 
 ## Featured Video
 <p align="center">
-  <a href="https://youtu.be/JgHjbwW-RhI?si=4V0o-lQIQNGK3e77">
-    <img src="https://img.youtube.com/vi/JgHjbwW-RhI/hqdefault.jpg" alt="Featured Video (click to watch)">
+  <a href="https://youtu.be/en_v4wM6Dm4?si=f5ApmhK34fVygIL4">
+    <img src="https://img.youtube.com/vi/en_v4wM6Dm4/hqdefault.jpg" alt="Featured Video (click to watch)">
   </a>
 </p>
 
