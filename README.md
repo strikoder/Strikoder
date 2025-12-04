@@ -13,8 +13,9 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   
-  <a href="https://strikoder.github.io/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-strikoder.github.io-000?logo=github&logoColor=white&style=for-the-badge">
+  <a href="https://strikoder.com/">
+    <img alt="Website" src="https://i.ibb.co/Ld9xc5c3/LOGO.png" height="30">
+    <img alt="strikoder.com" src="https://img.shields.io/badge/strikoder.com-000?style=for-the-badge">
   </a>
 
 
