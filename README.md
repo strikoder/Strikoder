@@ -20,7 +20,7 @@
 
 
 ## Cybersecurity
-- **HackTheBox**: [Profile](https://app.hackthebox.com/users/1872370)  
+- **HackTheBox**: [Profile](https://app.hackthebox.com/public/users/1872370)  
   <img src="https://www.hackthebox.com/badge/image/1872370" alt="HackTheBox Badge">
   
 - **TryHackMe**: [Profile](https://tryhackme.com/p/strikoder)<br>
