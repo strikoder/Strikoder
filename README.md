@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://strikoder.github.io/" target="_blank" rel="noreferrer">Strikoder</a></h1>
+<h1 align="center">Hi, I'm <a href="https://strikoder.com/" target="_blank" rel="noreferrer">Strikoder</a></h1>
 
 <p align="center">
   Pursuing <b>OSCP</b> certification while building <b>FOSS</b> tools and creating <b>practical pentesting content</b> on Youtube 
