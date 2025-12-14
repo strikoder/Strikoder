@@ -68,8 +68,25 @@
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strikoder&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strikoder&layout=compact&hide=Jupyter%20Notebook&count_private=true&theme=blue-green&title_color=00b3ff">
 </p>
 <p>
   <img src="https://komarev.com/ghpvc/?username=strikoder&color=blueviolet" alt="Profile Views">
 </p>
+
+## Open Source Contributions
+
+<div align="center">
+
+[![Penelope](https://github-readme-stats.vercel.app/api/pin/?username=brightio&repo=penelope&show_owner=true&theme=github_dark)](https://github.com/brightio/penelope)
+[![BloodHound](https://github-readme-stats.vercel.app/api/pin/?username=SpecterOps&repo=BloodHound&show_owner=true&theme=github_dark)](https://github.com/SpecterOps/BloodHound)
+[![WADComs](https://github-readme-stats.vercel.app/api/pin/?username=WADComs&repo=WADComs.github.io&show_owner=true&theme=github_dark&description_lines_count=1)](https://github.com/WADComs/WADComs.github.io)
+[![Transformers](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=transformers&show_owner=true&theme=github_dark&description_lines_count=1)](https://github.com/huggingface/transformers)
+[![Kickstart.nvim](https://github-readme-stats.vercel.app/api/pin/?username=nvim-lua&repo=kickstart.nvim&show_owner=true&theme=github_dark)](https://github.com/nvim-lua/kickstart.nvim)
+[![Villain](https://github-readme-stats.vercel.app/api/pin/?username=t3l3machus&repo=Villain&show_owner=true&theme=github_dark&description_lines_count=1)](https://github.com/t3l3machus/Villain)
+[![NetExec](https://github-readme-stats.vercel.app/api/pin/?username=Pennyw0rth&repo=NetExec&show_owner=true&theme=github_dark)](https://github.com/Pennyw0rth/NetExec)
+[![LaZagne](https://github-readme-stats.vercel.app/api/pin/?username=AlessandroZ&repo=LaZagne&show_owner=true&theme=github_dark)](https://github.com/AlessandroZ/LaZagne)
+
+</div>
+
+
