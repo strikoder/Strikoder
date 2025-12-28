@@ -75,17 +75,6 @@
   <img src="https://komarev.com/ghpvc/?username=strikoder&color=blueviolet" alt="Profile Views">
 </p>
 
-## Open Source Contributions
-
-<div align="center">
-
-[![Penelope](https://github-readme-stats.vercel.app/api/pin/?username=brightio&repo=penelope&show_owner=true&theme=github_dark)](https://github.com/brightio/penelope)
-[![BloodHound](https://github-readme-stats.vercel.app/api/pin/?username=SpecterOps&repo=BloodHound&show_owner=true&theme=github_dark)](https://github.com/SpecterOps/BloodHound)
-[![WADComs](https://github-readme-stats.vercel.app/api/pin/?username=WADComs&repo=WADComs.github.io&show_owner=true&theme=github_dark&description_lines_count=1)](https://github.com/WADComs/WADComs.github.io)
-[![Villain](https://github-readme-stats.vercel.app/api/pin/?username=t3l3machus&repo=Villain&show_owner=true&theme=github_dark&description_lines_count=1)](https://github.com/t3l3machus/Villain)
-[![NetExec](https://github-readme-stats.vercel.app/api/pin/?username=Pennyw0rth&repo=NetExec&show_owner=true&theme=github_dark)](https://github.com/Pennyw0rth/NetExec)
-[![LaZagne](https://github-readme-stats.vercel.app/api/pin/?username=AlessandroZ&repo=LaZagne&show_owner=true&theme=github_dark)](https://github.com/AlessandroZ/LaZagne)
-
-</div>
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=strikoder&limit=6&sort=contributions)](https://github.com/amankumarconnect/readme-contribution-stats)
 
 
