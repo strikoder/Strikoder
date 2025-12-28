@@ -5,18 +5,19 @@
 </p>
 
 <p align="center">
-   <a href="https://www.youtube.com/@strikoder">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-@strikoder-ff0000?logo=youtube&logoColor=white&style=for-the-badge">
+  <a href="https://www.youtube.com/@strikoder">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-@strikoder-FF0000?logo=youtube&logoColor=white&style=for-the-badge&labelColor=FF0000&logoSize=auto">
   </a>
-  
-   <a href="https://www.linkedin.com/in/strikoder/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/strikoder/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2">
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://strikoder.com/">
-    <img alt="Website" src="https://i.ibb.co/Ld9xc5c3/LOGO.png" height="30">
-    <img alt="strikoder.com" src="https://img.shields.io/badge/strikoder.com-000?style=for-the-badge">
+    <img alt="strikoder.com" src="https://avatars.githubusercontent.com/u/71812454?s=400&u=cebeadbf85a4926b9ca7e74abb6df10d420d15fe&v=4" height="28" style="vertical-align: middle; border-radius: 50%; margin-right: 10px; box-shadow: 0 0 10px rgba(0,217,255,0.5);">
+    <img alt="Website" src="https://img.shields.io/badge/strikoder.com-Visit%20Site-00D9FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1a1a" style="vertical-align: middle;">
   </a>
+</p>
 
 
 ## Cybersecurity
