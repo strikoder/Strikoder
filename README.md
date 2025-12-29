@@ -75,6 +75,6 @@
   <img src="https://komarev.com/ghpvc/?username=strikoder&color=blueviolet" alt="Profile Views">
 </p>
 
-[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=strikoder&limit=6)](https://github.com/amankumarconnect/readme-contribution-stats)
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=strikoder&limit=5)](https://github.com/amankumarconnect/readme-contribution-stats)
 
 
