@@ -34,11 +34,6 @@
 
 > ℹ️ Click any shield above to open the official certificate.
 
-
-## Legacy 
-[See my archived AI/ML projects here](https://strikoder.github.io/#portfolio)
-
-
 ## Featured Video
 <p align="center">
   <a href="https://youtu.be/en_v4wM6Dm4?si=f5ApmhK34fVygIL4">
@@ -68,9 +63,6 @@
 </p>
 
 ## GitHub Stats
-<p>
-  <img src="https://komarev.com/ghpvc/?username=strikoder&color=blueviolet" alt="Profile Views">
-</p>
 
 **Code Contributions**:
 [![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=strikoder&limit=5)](https://github.com/search?q=author%3Astrikoder+is%3Apr+is%3Apublic&type=pullrequests)
@@ -79,3 +71,7 @@
 
 I actively contribute ideas and improvements to cybersec tools including BloodHound, Penelope, LaZagne, and other projects.  
 [![Issues & Ideas](https://img.shields.io/badge/View%20My-Issue%20Contributions-orange?style=for-the-badge&logo=github)](https://github.com/search?q=author%3Astrikoder+&type=issues)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=strikoder&color=blueviolet" alt="Profile Views">
+</p>
