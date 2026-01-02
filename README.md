@@ -77,5 +77,5 @@
 
 **Ideas & Feature Requests**:
 
-I actively contribute ideas and improvements to cybersecurity tools including BloodHound, Penelope, LaZagne, and other projects.  
+I actively contribute ideas and improvements to cybersec tools including BloodHound, Penelope, LaZagne, and other projects.  
 [![Issues & Ideas](https://img.shields.io/badge/View%20My-Issue%20Contributions-orange?style=for-the-badge&logo=github)](https://github.com/search?q=author%3Astrikoder+&type=issues)
