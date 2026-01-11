@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://strikoder.com/" target="_blank" rel="noreferrer">Strikoder</a></h1>
-<img width="1280" height="1280" alt="LOGO" src="https://github.com/user-attachments/assets/d42aa3d2-12a1-4648-a500-39807eb2f9d4" />
-
+<p align="center">
+  <img width="200" alt="LOGO" src="https://github.com/user-attachments/assets/d42aa3d2-12a1-4648-a500-39807eb2f9d4" />
+</p>
 <p align="center">
   Pursuing <b>OSCP</b> certification while building <b>FOSS</b> tools and creating <b>practical pentesting content</b> on Youtube 
 </p>
