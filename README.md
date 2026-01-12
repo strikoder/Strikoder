@@ -67,7 +67,7 @@
 ## GitHub Stats
 
 **Code Contributions**:
-[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=strikoder&limit=5)](https://github.com/search?q=author%3Astrikoder+is%3Apr+is%3Apublic&type=pullrequests)
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=strikoder&limit=6)](https://github.com/search?q=author%3Astrikoder+is%3Apr+is%3Apublic&type=pullrequests)
 
 **Ideas & Feature Requests**:
 
