@@ -43,27 +43,6 @@
   </a>
 </p>
 
-## Toolbox
-<p>
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-268BEE?logo=kalilinux&logoColor=white&style=flat-square">
-  <img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-0078D4?logo=microsoft&logoColor=white&style=flat-square">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=flat-square">
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=flat-square">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square">
-</p>
-
-<p>
-  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=flat-square">
-  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square">
-  <img alt="BloodHound" src="https://img.shields.io/badge/BloodHound-D32F2F?logo=neo4j&logoColor=white&style=flat-square">
-  <img alt="Impacket" src="https://img.shields.io/badge/Impacket-808080?logo=python&logoColor=white&style=flat-square">
-  <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596be?logo=metasploit&logoColor=white&style=flat-square">
-  <img alt="Cobalt Strike" src="https://img.shields.io/badge/Cobalt_Strike-D32F2F?logo=cobaltstrike&logoColor=white&style=flat-square">
-  <img alt="Sliver C2" src="https://img.shields.io/badge/Sliver_C2-5C2D91?logo=go&logoColor=white&style=flat-square">
-  <img alt="Empire" src="https://img.shields.io/badge/Empire-000000?logo=powershell&logoColor=white&style=flat-square">
-</p>
-
 ## GitHub Stats
 
 **Code Contributions**:
