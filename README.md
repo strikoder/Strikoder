@@ -46,12 +46,7 @@
 ## GitHub Stats
 
 **Code Contributions**:
-[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=strikoder&limit=6)](https://github.com/search?q=author%3Astrikoder+is%3Apr+is%3Apublic&type=pullrequests)
-
-**Ideas & Feature Requests**:
-
-I actively contribute ideas and improvements to cybersec tools including BloodHound, Penelope, LaZagne, and other projects.  
-[![Issues & Ideas](https://img.shields.io/badge/View%20My-Issue%20Contributions-orange?style=for-the-badge&logo=github)](https://github.com/search?q=author%3Astrikoder+&type=issues)
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=strikoder&limit=8&prs=true&issues=true&exclude=streamlit,dionysus,transformers,haramblur)](https://github.com/search?q=author%3Astrikoder+is%3Apr+is%3Apublic&type=pullrequests)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=strikoder&color=blueviolet" alt="Profile Views">
