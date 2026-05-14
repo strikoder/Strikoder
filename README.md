@@ -38,8 +38,8 @@
 
 ## Featured Video
 <p align="center">
-  <a href="https://youtu.be/en_v4wM6Dm4?si=f5ApmhK34fVygIL4">
-    <img src="https://img.youtube.com/vi/en_v4wM6Dm4/hqdefault.jpg" alt="Featured Video (click to watch)">
+  <a href="https://youtu.be/dT7XgN8uuSU?si=aJUEoWPl2h3qvxPG">
+    <img src="https://i9.ytimg.com/vi_webp/dT7XgN8uuSU/mqdefault.webp?v=6a047f29&sqp=CKy5ldAG&rs=AOn4CLDDz3wbutsYu-P_FIK3tD7rJNi3sg" alt="Featured Video (click to watch)">
   </a>
 </p>
 
