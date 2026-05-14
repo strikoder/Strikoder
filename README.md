@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://youtu.be/dT7XgN8uuSU?si=aJUEoWPl2h3qvxPG">
-    <img src="https://i9.ytimg.com/vi_webp/dT7XgN8uuSU/mqdefault.webp?v=6a047f29&sqp=CKy5ldAG&rs=AOn4CLDDz3wbutsYu-P_FIK3tD7rJNi3sg" alt="Featured Video">
+    <img src="https://img.youtube.com/vi/dT7XgN8uuSU/maxresdefault.jpg" alt="Featured Video">
   </a>
 </p>
 
