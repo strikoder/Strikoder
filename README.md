@@ -1,8 +1,7 @@
-<img width="3657" height="3200" alt="logo_noBG" src="https://github.com/user-attachments/assets/d9d86478-0e60-445c-9840-0820fefd1195" />
 <h1 align="center">Hi, I'm <a href="https://strikoder.com/" target="_blank" rel="noreferrer">Strikoder</a></h1>
 
 <p align="center">
-  <img width="200" alt="LOGO" src="https://github.com/user-attachments/assets/d42aa3d2-12a1-4648-a500-39807eb2f9d4" />
+  <img width="200" alt="logo_noBG" src="https://github.com/user-attachments/assets/d9d86478-0e60-445c-9840-0820fefd1195" />
 </p>
 
 <p align="center">
