@@ -70,8 +70,8 @@
 ## Featured Video
 
 <p align="center">
-  <a href="https://youtu.be/dT7XgN8uuSU?si=aJUEoWPl2h3qvxPG">
-    <img src="https://img.youtube.com/vi/dT7XgN8uuSU/maxresdefault.jpg" alt="Featured Video">
+  <a href="https://www.youtube.com/watch?v=9HFKfGs6ym8">
+    <img src="https://img.youtube.com/vi/9HFKfGs6ym8/maxresdefault.jpg" alt="Featured Video">
   </a>
 </p>
 
